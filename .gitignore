@@ -101,3 +101,9 @@ ENV/
 .mypy_cache/
 
 RUNS/
+
+
+# system
+.DS_Store
+.idea/
+data/.DS_Store
