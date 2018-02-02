@@ -14,18 +14,23 @@ Download the [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road
 
 ### Start
 
-##### trainning parameters
+##### Trainning parameters
 1. model is trained on Kitti Road dataset  
 2. learning rate: 0.001
 3. keep prob: 0.5
 4. batch size: 5
 5. number of epoch: 50
 
-##### test result
+##### Test result
 
 ![test image](/image/image1.png)
 
 ![test image](/image/image2.png)
+
+##### Conclusion
+1. Without GPU the training process can take a very long time
+2. This model achieves a pretty good result
+3. There are many other more advanced model to try out in the future, for example Mask-RCNN from Kaiming He
 
 
 ##### Run
