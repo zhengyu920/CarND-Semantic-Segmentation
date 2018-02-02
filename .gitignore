@@ -100,8 +100,6 @@ ENV/
 # mypy
 .mypy_cache/
 
-RUNS/
-
 
 # system
 .DS_Store
